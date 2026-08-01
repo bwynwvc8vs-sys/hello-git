@@ -6,3 +6,6 @@ repo นี้ไว้ฝึก Git ครั้งแรก ทำตามข
 เติมชื่อเล่นของคุณต่อจากบรรทัดนี้ (คนละบรรทัด):
 
 - Nut
+git add .
+git commit -m "bamboo"
+git push
